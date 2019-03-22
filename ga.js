@@ -1,4 +1,4 @@
-<script async src="//your-domain/alt.js"></script>
+<script async src="//your-domain/gtm.js"></script>
 <script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
